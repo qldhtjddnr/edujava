@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="과제/src"/>
+	<classpathentry kind="src" path="나혼자공부하는거/src"/>
+	<classpathentry kind="src" path="chapter02/src"/>
+	<classpathentry kind="src" path="chapter05/src"/>
+	<classpathentry kind="src" path="chapter06_AccessModifier/src"/>
+	<classpathentry kind="src" path="chapter06_Example/src"/>
+	<classpathentry kind="src" path="chapter06/src"/>
+	<classpathentry kind="src" path="chapter07/src"/>
+	<classpathentry kind="src" path="helloworld/src"/>
+	<classpathentry kind="output" path="chapter06/bin"/>
+</classpath>
